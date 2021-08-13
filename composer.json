@@ -28,7 +28,7 @@
         "symfony/maker-bundle": "*",
         "symfony/profiler-pack" :"*",
         "symfony/debug": "*"
-    }
+    },
     "require-dev": {
     },
     "config": {
